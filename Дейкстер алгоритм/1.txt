@@ -1,0 +1,6 @@
+4
+1:Pupkino, 2:Kozulkino, 3:Otstalovo, 4:Ivanovo
+0 10 3 0
+10 0 4 0
+3 4 0 11
+0 0 11 0
